@@ -1,0 +1,13 @@
+{
+  "Simulator Target Bundle": "com.example.pushNotificiationExample",
+  "aps": {
+    "alert": {
+      "title": "Local push notification",
+      "subtitle": "Its a local flutter iOS notification",
+      "body": "I hope it work for you"
+    },
+    "badge": 1,
+    "sound": "default"
+  },
+  "customKey": "something nice here - local notification"
+}
