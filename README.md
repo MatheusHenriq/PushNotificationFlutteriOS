@@ -1,16 +1,10 @@
 # push_notificiation_example
 
-A new Flutter project.
+This project cover the implementation of APNS on flutter iOS.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter version:
+3.24.1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+See my article on Medium to see my explanation https://medium.com/@matheusdeveloper.henrique/apple-push-notifications-service-apns-in-flutter-ios-d673221ebb03
